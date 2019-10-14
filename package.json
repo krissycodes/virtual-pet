@@ -1,0 +1,14 @@
+{
+  "name": "virtual-pet",
+  "version": "1.0.0",
+  "description": "my vertual pet",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "krissyxlou",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
